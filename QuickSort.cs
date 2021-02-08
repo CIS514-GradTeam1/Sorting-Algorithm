@@ -1,4 +1,4 @@
-import System;
+using System;
 
 namespace SortingAlgo
 {
